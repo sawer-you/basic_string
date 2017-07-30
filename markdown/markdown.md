@@ -11,4 +11,4 @@ strikethough uses the tow tildes, ~~delete~~
 
 [this is a link](http://global.bing.com/)  
 # Image
-your name![alt text]()
+your name![alt text](https://github.com/sawer-you/basic_string/blob/master/markdown/th.jpg "your name.")
