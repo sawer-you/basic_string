@@ -11,7 +11,7 @@ strikethough uses the tow tildes, ~~delete~~
 
 [this is a link](http://global.bing.com/)  
 # Image
-your name![alt text](https://github.com/sawer-you/basic_string/blob/master/markdown/th.jpg "your name.")  
+your name![hello](https://github.com/sawer-you/basic_string/blob/master/markdown/th.jpg "your name.")  
 `langguage indicate syntax highlighting` 
 ```c++
 for(auto s: a)
