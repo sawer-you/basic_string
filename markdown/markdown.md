@@ -27,7 +27,7 @@ align | align | align
 quote:
 >Blockquotes are very handy in email to emulate reply text. This line is part of the same quote.
 
-#horizontal rule
+# horizontal rule
 three or more...
 hyphens
 ---
@@ -35,3 +35,5 @@ asterisks
 ***
 underscores
 ___
+*markdown MD*  MD  
+_github flavored markdown_  GFM  
