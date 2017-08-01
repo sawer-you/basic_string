@@ -1,3 +1,4 @@
+[gfm](#postscript)  
 _emphasis_ aka *italics*  
 __strong emphasisi__ aka **bold**  
 combine emphasis with **_asterisks_ and _underscore_**  
@@ -35,5 +36,6 @@ asterisks
 ***
 underscores
 ___
+### postscript
 *markdown MD*  MD  
 _github flavored markdown_  GFM  
